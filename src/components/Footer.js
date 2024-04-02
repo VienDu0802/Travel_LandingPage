@@ -28,7 +28,6 @@ const Footer = () => {
 					</li>)
 				})}
 			</ul>
-			<h2>Test deployment !!!!!!!!!!!!!!!!!!!!</h2>
 			<p className="copyright">
 				copyright &copy; Backroads travel tours company
 				<span id="date"></span> all rights reserved
