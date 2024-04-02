@@ -205,17 +205,11 @@ Hero
   border-color: var(--clr-white);
 }
 @media screen and (min-width: 768px) {
-<<<<<<< HEAD
   .hero {
     background: linear-gradient(rgb(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)),
       url('./images/main.jpeg') center/cover no-repeat;
   }
-=======
-  /* .hero {
-    background: linear-gradient(rgb(44, 174, 186, 0.7), rgba(0, 0, 0, 0.7)),
-      url('../images/main.jpeg') center/cover no-repeat;
-  } */
->>>>>>> 7802fa5b7d459409e7d6b1a8b1d2f297ed99a927
+
   .hero-banner {
     padding: 0;
   }
